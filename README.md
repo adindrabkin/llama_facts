@@ -1,5 +1,5 @@
 # LLamtastic blog
-This project was originally created for the Rochester Institute of Technology (RIT) WIYCS 2022 CTF competition. It is vulnerable to Server-Side Template Injection (SSTI), defined in the disputed CVE CVE-2021-????.
+This project was originally created for the Rochester Institute of Technology (RIT) Women in Cybersecurity (WIYCS) 2022 CTF competition. It is vulnerable to Server-Side Template Injection (SSTI), defined in the disputed CVE CVE-2019-8341.
 
 ## Usage
 Requires having docker engine installed and running.  
