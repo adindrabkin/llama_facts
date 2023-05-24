@@ -1,4 +1,4 @@
-# LLamtastic blog
+# Llamtastic blog
 This project was originally created for the Rochester Institute of Technology (RIT) Women in Cybersecurity (WIYCS) 2022 CTF competition. It is vulnerable to Server-Side Template Injection (SSTI), defined in the disputed CVE CVE-2019-8341.
 
 ## Usage
